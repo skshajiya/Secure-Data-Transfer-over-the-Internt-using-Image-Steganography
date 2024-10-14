@@ -42,17 +42,23 @@ The process of hiding information which can be text, image or video inside a cov
 1. Encoding Module
    Input:
    - Text message: The text message to be encoded into the image.
+     
    - Image File: The input image file in which the message will be hidden.
+     
      -# Encoded Image: The output image file with the hidden message embedded in it.
 
  2. Decoding Module
     Input:
     -Encoded Image: The image file containing the hidden message.
+
+    
     -Decoded Message: The original text message hidden in the image.
 
-3. Image Processing Module
+4. Image Processing Module
    Input:
   - Image file: The input image file on which image processing operations will be applied.
+
+    
   - Processed Image: The output image file with the applied mask and filters for improved 
    quality and security.
 
