@@ -7,7 +7,7 @@
 
 -[Dataset](#Dataset)
 
--[Techniques Used](#Techniques Used)
+-[Techniques](#Techniques)
 
 * * *
 
@@ -36,7 +36,7 @@ The process of hiding information which can be text, image or video inside a cov
 ![image](https://github.com/user-attachments/assets/63e7538a-93b1-4cf0-8cd6-a86bfbb3ddd8)
 
 
-# Techniques Used:
+# Techniques:
 
 
 1. Encoding Module
