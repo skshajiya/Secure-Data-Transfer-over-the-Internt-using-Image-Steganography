@@ -102,3 +102,14 @@ The process of hiding information which can be text, image or video inside a cov
 
 
 ![image](https://github.com/user-attachments/assets/75e605bb-9d3e-4301-aeb3-b3310c429113)
+
+
+
+![image](https://github.com/user-attachments/assets/3ec4051c-d909-44ee-bc07-9e7e336fe72e)
+
+
+
+
+![image](https://github.com/user-attachments/assets/d882d134-2f98-4a01-9dd8-b5551a917c11)
+
+
