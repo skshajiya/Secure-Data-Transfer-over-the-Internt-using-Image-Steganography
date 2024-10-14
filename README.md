@@ -9,6 +9,9 @@
 
 -[Techniques](#Techniques)
 
+
+-[Outputs](#Outputs)
+
 * * *
 
 
@@ -62,3 +65,40 @@ The process of hiding information which can be text, image or video inside a cov
   - Processed Image: The output image file with the applied mask and filters for improved 
    quality and security.
 
+* * *
+
+
+# Outputs:
+
+
+
+![image](https://github.com/user-attachments/assets/e8fd4b9c-e2d0-4e0c-9b55-9bec1d807bc7)
+
+
+
+![image](https://github.com/user-attachments/assets/65eccded-2180-4133-afc0-c813ee563416)
+
+
+
+![image](https://github.com/user-attachments/assets/f2567281-631e-4761-b74e-f796987a7290)
+
+
+
+![image](https://github.com/user-attachments/assets/92ffbb57-1752-4d1b-8362-800d1f313402)
+
+
+
+![image](https://github.com/user-attachments/assets/c99df2f4-6a10-426b-b53c-7df64e30aa13)
+
+
+
+![image](https://github.com/user-attachments/assets/76ed73c5-6218-4246-8f21-271461d36e18)
+
+
+
+![image](https://github.com/user-attachments/assets/98a898e7-4da3-49ad-8c71-9749830db016)
+
+
+
+
+![image](https://github.com/user-attachments/assets/75e605bb-9d3e-4301-aeb3-b3310c429113)
